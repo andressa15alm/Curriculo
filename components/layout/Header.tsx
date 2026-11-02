@@ -25,10 +25,10 @@ export default function Header() {
 
         {/* Desktop nav */}
         <nav className="hidden gap-6 text-sm md:flex">
-          <a href="#home" className="opacity-90 hover:opacity-100">Home</a>
-          <a href="#about" className="opacity-90 hover:opacity-100">About Me</a>
-          <a href="#projects" className="opacity-90 hover:opacity-100">Projects</a>
-          <a href="#contact" className="opacity-90 hover:opacity-100">Contact</a>
+          <a href="#home" className="opacity-90 hover:opacity-100">Início</a>
+          <a href="#about" className="opacity-90 hover:opacity-100">Sobre Mim</a>
+          <a href="#projects" className="opacity-90 hover:opacity-100">Projetos</a>
+          <a href="#contact" className="opacity-90 hover:opacity-100">Contato</a>
         </nav>
 
         {/* Mobile button */}
