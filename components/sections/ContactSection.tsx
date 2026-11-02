@@ -3,10 +3,10 @@ import { Linkedin } from "lucide-react";
 export default function ContactSection() {
    return (
     <Section id="contact">
-      <h2 className="mb-2 text-3xl font-semibold">Contact</h2>
+      <h2 className="mb-2 text-3xl font-semibold">Contato</h2>
 
       <p className="mb-4 text-muted">
-        Contact me:{" "}
+        e-mail:{" "}
         <a
           href="#contact"
           className="underline hover:text-white transition-colors"
@@ -19,12 +19,12 @@ export default function ContactSection() {
         {/* ícone opcional */}
         <Linkedin className="h-5 w-5 text-white/80" />
         <a
-          href="https://www.linkedin.com/in/andressa-almeida-de-paula-1892b9164/"
+          href="https://www.linkedin.com/in/andressa-almeida-de-paula-tecnologia-da-informacao/"
           target="_blank"
           rel="noopener noreferrer"
           className="text-white/90 hover:text-white transition-colors underline"
         >
-          linkedin.com/in/andressa-almeida-de-paula
+          linkedin.com/in/andressa-almeida-de-paula-tecnologia-da-informacao
         </a>
       </div>
     </Section>

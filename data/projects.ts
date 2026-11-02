@@ -6,10 +6,10 @@ export type Project = {
 
 export const projects: Project[] = [
   { title: "Wildlife Detection", href: "https://github.com/andressa15alm/Wildlife-Detection", image: "/img/puma01.png" },
-  { title: "Large Language Model",     href: "https://github.com/andressa15alm/llama_project/tree/main",      image: "/img/llm.png" },
-  { title: "Next 13 e Framer Motion",  href: "https://github.com/andressa15alm/Projeto_next_framemotion",      image: "/img/meta.png" },
-  { title: "OCR Project",       href: "https://github.com/andressa15alm/Projeto_OCR",      image: "/img/ocr.png" },
-  { title: "3D Car — Just for Fun",      href: "https://github.com/andressa15alm/car3D",     image: "/img/carproj.png" },
-  { title: "Other Projects",   href: "https://github.com/andressa15alm?tab=repositories",    image: "/img/github.png" },
+  { title: "v0 Vercel - Mercadinho minha lista",     href: "https://mercadinho-sepia.vercel.app/",      image: "/img/mercado.png" },
+  { title: "Projeto desenvolvido no curso javascript Mastery",  href: "https://silly-concha-295eec.netlify.app/",      image: "/img/youtubeimg.png" },
+  { title: "OCR Projeto",       href: "https://projeto-ocr-gamma.vercel.app/",      image: "/img/ocr.png" },
+  { title: "3D Car — Just for Fun",      href: "https://car3-d-andressa15alm.vercel.app/",     image: "/img/carproj.png" },
+  { title: "Outros Projetos",   href: "https://github.com/andressa15alm?tab=repositories",    image: "/img/github.png" },
 
 ];

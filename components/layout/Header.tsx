@@ -100,7 +100,7 @@ export default function Header() {
                   onClick={handleNavClick}
                   className="block rounded-xl border border-white/10 bg-white/5 px-4 py-3 text-base hover:bg-white/10"
                 >
-                  Home
+                  Início
                 </a>
               </li>
               <li>
@@ -109,7 +109,7 @@ export default function Header() {
                   onClick={handleNavClick}
                   className="block rounded-xl border border-white/10 bg-white/5 px-4 py-3 text-base hover:bg-white/10"
                 >
-                  About Me
+                  Sobre mim
                 </a>
               </li>
               <li>
@@ -118,7 +118,7 @@ export default function Header() {
                   onClick={handleNavClick}
                   className="block rounded-xl border border-white/10 bg-white/5 px-4 py-3 text-base hover:bg-white/10"
                 >
-                  Projects
+                  Projetos
                 </a>
               </li>
               <li>
@@ -127,7 +127,7 @@ export default function Header() {
                   onClick={handleNavClick}
                   className="block rounded-xl border border-white/10 bg-white/5 px-4 py-3 text-base hover:bg-white/10"
                 >
-                  Contact
+                  Contato
                 </a>
               </li>
             </ul>
